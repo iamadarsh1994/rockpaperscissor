@@ -1,0 +1,33 @@
+body {
+  background-color: darkslategray;
+  color: aliceblue;
+}
+
+header {
+  font-size: larger;
+  width: 200px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 0 0 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.scores{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3{
+  font-size: large;
+  font-style: italic;
+  margin: 100px;
+}
+.choice{
+margin: 100px;
+
+}
+h4{
+  padding: 25px;
+}
